@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FinFinder AI</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="overlay">
+    <h1>FinFinder AI</h1>
+    <p>Identify Fish Species with Deep Learning</p>
+  </div>
+</section>
+
+<!-- ABSTRACT -->
+<section class="section">
+  <h2>Abstract</h2>
+  <p>
+    FinFinder AI is a smart fish identification system using deep learning.
+    It works in both online and offline modes to help users identify marine species
+    quickly and accurately.
+  </p>
+</section>
+
+<!-- PROBLEM -->
+<section class="section light">
+  <h2>Problem Statement</h2>
+  <ul>
+    <li>Lack of reliable fish identification tools</li>
+    <li>Difficulty in offline environments</li>
+    <li>Slow traditional AI systems</li>
+    <li>Limited accessibility for users</li>
+  </ul>
+</section>
+
+<!-- OBJECTIVES -->
+<section class="section">
+  <h2>Project Objectives</h2>
+  <div class="grid">
+    <div class="card">AI Fish Identification</div>
+    <div class="card">Deep Learning Accuracy</div>
+    <div class="card">Offline + Online Support</div>
+    <div class="card">Better User Experience</div>
+    <div class="card">Scalable System Design</div>
+  </div>
+</section>
+
+<!-- SCOPE -->
+<section class="section light">
+  <h2>Scope of Project</h2>
+  <div class="grid">
+    <div class="card">Core Functionality</div>
+    <div class="card">Technology Integration</div>
+    <div class="card">User Interface Design</div>
+    <div class="card">Hybrid Features</div>
+    <div class="card">Real-world Impact</div>
+  </div>
+</section>
+
+<!-- PROCESS -->
+<section class="section">
+  <h2>Methodology</h2>
+  <div class="steps">
+    <div>Research → Design</div>
+    <div>Development → Integration</div>
+    <div>Testing → Deployment</div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>© 2026 FinFinder AI | Created by Sushil</p>
+</footer>
+
+</body>
+</html>
